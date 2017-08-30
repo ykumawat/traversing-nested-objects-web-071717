@@ -1,6 +1,6 @@
 Traversing Nested Objects
 ---
-
+#
 ## Objectives
 
 1. Explain what a nested object looks like
